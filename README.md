@@ -4,6 +4,8 @@ This repository contains a collection of **embedded systems and IoT-oriented pro
 
 The focus is on **hardware–software integration, rapid prototyping, debugging, and exploration of IoT concepts** through practical hands-on development.
 
+📹 Multiple demonstration videos are available in the README below.
+
 ---
 
 ## 📌 About the Project
@@ -86,6 +88,12 @@ It enables more advanced embedded and IoT-style projects while keeping the famil
 - Embedded systems programming
 - Basic IoT concepts
 - Serial communication debugging
+
+---
+
+## 📹 Demo Videos
+
+- [Light touch](https://drive.google.com/file/d/1AVVDw57Bos2dNLxogOmAN1WSQN5nH34R/view?usp=sharing)
 
 ---
 
