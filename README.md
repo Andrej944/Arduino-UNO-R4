@@ -93,7 +93,11 @@ It enables more advanced embedded and IoT-style projects while keeping the famil
 
 ## 📹 Demo Videos
 
-- [Light touch](https://drive.google.com/file/d/1AVVDw57Bos2dNLxogOmAN1WSQN5nH34R/view?usp=sharing)
+- [Knock Lock](https://drive.google.com/file/d/1VoKg-G5_DjVPPb_i2XeHHbiu7AjRePWg/view?usp=sharing)
+
+- [Light Touch](https://drive.google.com/file/d/1AVVDw57Bos2dNLxogOmAN1WSQN5nH34R/view?usp=sharing)
+
+- [Light Guitar](https://drive.google.com/file/d/1yqJdBs-VQvVwvfSJOOCu7yriGCZPf0XO/view?usp=sharing)
 
 ---
 
