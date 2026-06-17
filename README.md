@@ -102,9 +102,8 @@ It enables more advanced embedded and IoT-style projects while keeping the famil
 
 ## 🚀 Future Improvements
 
-- Add WiFi-based IoT communication (MQTT / HTTP)
+- Add WiFi-based IoT communication
 - Expand sensor library integration
-- Implement real-time data logging
 - Create modular reusable embedded components
 - Add structured project examples (smart sensor systems, automation)
 - Robotics implementation
