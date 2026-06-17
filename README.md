@@ -48,8 +48,8 @@ Uses light-based input and a piezo buzzer to generate musical tones.
 
 ⚠️ Source code unavailable
 
-### 📟 LCD Display Demo
-Demonstrates text and data output on an LCD display threw an 8 ball game.
+### 📟 8-Ball
+DImplements a Magic 8-Ball style game using an LCD display for user interaction.
 
 📄 [Source Code](Lcd.ino)
 
