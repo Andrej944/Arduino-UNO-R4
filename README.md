@@ -35,7 +35,7 @@ Unlocks the system only when the correct knock pattern is entered.
 📄 [Source Code](Knock_lock.ino)
 
 ### 💡 Light Touch
-Controls LEDs using touch input for interactive light effects.
+Uses a capacitive touch sensor to control LED behavior.
 
 🎥 [Demo Video](https://drive.google.com/file/d/1AVVDw57Bos2dNLxogOmAN1WSQN5nH34R/view?usp=sharing)
 
@@ -49,7 +49,7 @@ Uses light-based input and a piezo buzzer to generate musical tones.
 ⚠️ Source code unavailable
 
 ### 📟 8-Ball
-DImplements a Magic 8-Ball style game using an LCD display for user interaction.
+Implements a Magic 8-Ball style game using an LCD display for user interaction.
 
 📄 [Source Code](Lcd.ino)
 
@@ -105,7 +105,6 @@ It enables more advanced embedded and IoT-style projects while keeping the famil
 - Add WiFi-based IoT communication
 - Expand sensor library integration
 - Create modular reusable embedded components
-- Add structured project examples (smart sensor systems, automation)
 - Robotics implementation
 
 ---
@@ -122,7 +121,9 @@ It enables more advanced embedded and IoT-style projects while keeping the famil
 
 ## 👨‍💻 Author
 
-Developed by Andrej
+Andrej Petrović
+Electrical Engineering Student
+University of Belgrade – ETF
 
 Focus: Embedded Systems, Robotics, and IoT Development
 
