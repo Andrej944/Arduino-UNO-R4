@@ -25,6 +25,36 @@ Key focus areas:
 
 ---
 
+## 🔧 Included Projects
+
+### 🔐 Knock Lock
+Unlocks the system only when the correct knock pattern is entered.
+
+🎥 [Demo Video](https://drive.google.com/file/d/1VoKg-G5_DjVPPb_i2XeHHbiu7AjRePWg/view?usp=sharing)
+
+📄 [Source Code](Knock_lock.ino)
+
+### 💡 Light Touch
+Controls LEDs using touch input for interactive light effects.
+
+🎥 [Demo Video](https://drive.google.com/file/d/1AVVDw57Bos2dNLxogOmAN1WSQN5nH34R/view?usp=sharing)
+
+📄 [Source Code](Light_touch.ino)
+
+### 🎵 Light Guitar
+Uses light-based input and a piezo buzzer to generate musical tones.
+
+🎥 [Demo Video](https://drive.google.com/file/d/1yqJdBs-VQvVwvfSJOOCu7yriGCZPf0XO/view?usp=sharing)
+
+⚠️ Source code unavailable
+
+### 📟 LCD Display Demo
+Demonstrates text and data output on an LCD display threw an 8 ball game.
+
+📄 [Source Code](Lcd.ino)
+
+---
+
 ## 🧠 What I Learned
 
 - Programming microcontrollers using Arduino framework
@@ -88,16 +118,6 @@ It enables more advanced embedded and IoT-style projects while keeping the famil
 - Embedded systems programming
 - Basic IoT concepts
 - Serial communication debugging
-
----
-
-## 📹 Demo Videos
-
-🔐 [Knock Lock](https://drive.google.com/file/d/1VoKg-G5_DjVPPb_i2XeHHbiu7AjRePWg/view?usp=sharing)
-
-💡 [Light Touch](https://drive.google.com/file/d/1AVVDw57Bos2dNLxogOmAN1WSQN5nH34R/view?usp=sharing)
-
-🎵 [Light Guitar](https://drive.google.com/file/d/1yqJdBs-VQvVwvfSJOOCu7yriGCZPf0XO/view?usp=sharing)
 
 ---
 
