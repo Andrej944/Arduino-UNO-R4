@@ -51,7 +51,7 @@ Uses light-based input and a piezo buzzer to generate musical tones.
 ### 📟 8-Ball
 Implements a Magic 8-Ball style game using an LCD display for user interaction.
 
-📄 [Source Code](Lcd.ino)
+📄 [Source Code](8_ball.ino)
 
 ---
 
