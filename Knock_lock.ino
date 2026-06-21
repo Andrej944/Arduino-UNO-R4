@@ -24,7 +24,7 @@ void setup() {
   Serial.begin(9600);
   digitalWrite(greenLed, HIGH);
   myServo.write(0);
-  Serial.println("The box is unlocked!");
+  Serial.println("Unlocked!");
 }
 
 void loop() {
@@ -35,7 +35,7 @@ void loop() {
       digitalWrite(greenLed, LOW);
       digitalWrite(redLed, HIGH);
       myServo.write(90);
-      Serial.println("The box is locked!");
+      Serial.println("Locked!");
       delay(1000);
     }
   }
@@ -54,7 +54,7 @@ void loop() {
       delay(20);
       digitalWrite(greenLed, HIGH);
       digitalWrite(redLed, LOW);
-      Serial.println("The box is unlocked!");
+      Serial.println("Unlocked!");
       numberOfKnocks = 0;
     }
   }
