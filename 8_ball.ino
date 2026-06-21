@@ -20,20 +20,20 @@ void loop() {
         reply = random(8);
         lcd.clear();
         lcd.setCursor(0, 0);
-        lcd.print("The ball says:");
+        lcd.print("Balls verdict:");
         lcd.setCursor(0, 1);
         switch(reply){
           case 0:
           lcd.print("Yes");
           break;
           case 1:
-          lcd.print("Most likely");
+          lcd.print("Probably");
           break;
           case 2:
-          lcd.print("Certainly");
+          lcd.print("For sure");
           break;
           case 3:
-          lcd.print("Outlook good");
+          lcd.print("Slim chances");
           break;
           case 4:
           lcd.print("Unsure");
@@ -42,7 +42,7 @@ void loop() {
           lcd.print("Ask again");
           break;
           case 6:
-          lcd.print("Outlook good");
+          lcd.print("Probably not");
           break;
           case 7:
           lcd.print("No");
